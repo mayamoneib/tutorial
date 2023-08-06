@@ -1,3 +1,3 @@
 # tutorial
 
-#Maya
+Master
